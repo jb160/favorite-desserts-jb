@@ -1,2 +1,4 @@
-# favorite-desserts-jb
-Logging favorite desserts of the lab
+## Favorite desserts of the Santoro Lab
+
+- Julien, **chocolate**
+
